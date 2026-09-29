@@ -48,7 +48,9 @@ window.onscroll = () => {
         footer.classList.toggle('show-animate', this.innerHeight + this.scrollY >= document.scrollingElement.scrollHeight
         )
     }
+    // ----------------------------------------------------------------------
 
+    //-----------------  go to top -------------------------------
 
     let iconTop = document.querySelector(".iconTop");
 
@@ -58,8 +60,4 @@ window.onscroll = () => {
     } else {
         iconTop.style.display = "none";
     }
-
-
-
-
 }
