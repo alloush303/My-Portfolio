@@ -49,16 +49,17 @@ window.onscroll = () => {
         )
     }
 
+
     let iconTop = document.querySelector(".iconTop");
 
-    if (iconTop) {
 
-        if (document.body.scrollTop > 1000 || document.documentElement.scrollTop > 1000) {
-            iconTop.style.display = "block";
-        } else {
-            iconTop.style.display = "none";
-        }
+    if (document.documentElement.scrollTop > 800) {
+        iconTop.style.display = "block";
+    } else {
+        iconTop.style.display = "none";
     }
+
+
 
 
 }
