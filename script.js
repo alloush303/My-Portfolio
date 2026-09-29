@@ -44,7 +44,21 @@ window.onscroll = () => {
 
     let footer = document.querySelector('.footer');
 
-    footer.classList.toggle('show-animate', this.innerHeight + this.scrollY >= document.scrollingElement.scrollHeight
-    )
+    if (footer) {
+        footer.classList.toggle('show-animate', this.innerHeight + this.scrollY >= document.scrollingElement.scrollHeight
+        )
+    }
+
+    let iconTop = document.querySelector(".iconTop");
+
+    if (iconTop) {
+
+        if (document.body.scrollTop > 1000 || document.documentElement.scrollTop > 1000) {
+            iconTop.style.display = "block";
+        } else {
+            iconTop.style.display = "none";
+        }
+    }
+
 
 }
