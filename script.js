@@ -78,9 +78,13 @@ const translations = {
         contact: "التواصل",
         title: "مرحباً, أنا علي علوش",
         jop: "مطور واجهات أمامية",
-        aboutMe: "مطور Front-End طموح ممتد بأساس قوي في تقنيات الويب الأساسية (HTML, CSS, JavaScript). لدي شغف كبير ببناء واجهات مستخدم جذابة ومتجاوبة، وأسعى دائمًا لتطوير مهاراتي ومواكبة أحدث إطارات العمل مثل React. أبحث عن فرص لتطبيق ما تعلمته في مشاريع حقيقية والمساهمة في بناء حلول رقمية مبتكرة.",
+        discreption: "مطور Front-End طموح ممتد بأساس قوي في تقنيات الويب الأساسية (HTML, CSS, JavaScript). لدي شغف كبير ببناء واجهات مستخدم جذابة ومتجاوبة، وأسعى دائمًا لتطوير مهاراتي ومواكبة أحدث إطارات العمل مثل React. أبحث عن فرص لتطبيق ما تعلمته في مشاريع حقيقية والمساهمة في بناء حلول رقمية مبتكرة.",
         hireMe: "وظفني",
-        letsTalk: "تواصل معي"
+        letsTalk: "تواصل معي",
+        about1: "نبذة عنّي",
+        title2: "مطور واجهات أمامية!",
+        discreption2: "مطور Front-End طموح ممتد بأساس قوي في تقنيات الويب الأساسية (HTML, CSS, JavaScript). لدي شغف كبير ببناء واجهات مستخدم جذابة ومتجاوبة، وأسعى دائمًا لتطوير مهاراتي ومواكبة أحدث إطارات العمل مثل React. أبحث عن فرص لتطبيق ما تعلمته في مشاريع حقيقية والمساهمة في بناء حلول رقمية مبتكرة.",
+        readMorebtn: "اقرأ أكثر"
     },
     en: {
         home: "Home",
@@ -90,10 +94,13 @@ const translations = {
         contact: "Contact",
         title: "Hi, I'm Ali Alloush",
         jop: "Frontend Developer",
-        aboutMe: "An ambitious Front-End Developer with a solid foundation in core web technologies (HTML, CSS, and JavaScript). I have a strong passion for building visually appealing, responsive user interfaces and am always eager to upgrade my skills and keep pace with modern frameworks like React. I am looking for opportunities to apply my knowledge in real-world projects and contribute to building innovative digital solutions.",
+        discreption: "An ambitious Front-End Developer with a solid foundation in core web technologies (HTML, CSS, and JavaScript). I have a strong passion for building visually appealing, responsive user interfaces and am always eager to upgrade my skills and keep pace with modern frameworks like React. I am looking for opportunities to apply my knowledge in real-world projects and contribute to building innovative digital solutions.",
         hireMe: "hireMe",
-        letsTalk: "let'sTalk"
-
+        letsTalk: "let'sTalk",
+        about1: "About Me",
+        title2: "Frontend Developer!",
+        discreption2: "An ambitious Front-End Developer with a solid foundation in core web technologies (HTML, CSS, and JavaScript). I have a strong passion for building visually appealing, responsive user interfaces and am always eager to upgrade my skills and keep pace with modern frameworks like React. I am looking for opportunities to apply my knowledge in real-world projects and contribute to building innovative digital solutions.",
+        readMorebtn: "Read More"
     }
 }
 
